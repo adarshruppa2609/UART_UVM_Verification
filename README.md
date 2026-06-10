@@ -47,6 +47,7 @@ The scoreboard compares expected and actual data and reports PASS/FAIL.
 ## Result
 
 ![Waveform](waveform/waveform.png)
+![Waveform1](waveform1.png)
 
 ## Author
 
